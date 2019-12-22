@@ -1,0 +1,102 @@
+
+body{
+background-color: blue;
+}
+
+.bgimage{
+  background-image: url(../images/logo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+  background-position: center center;
+}
+
+.bg{
+  background-image: url(../images/l.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+  background-position: center center;
+}
+.mage{
+  background-image: url(../images/5.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 600px;
+  background-position: center center;
+}
+.bin{
+	background-color: blue;
+	min-height: 600px;
+	
+}
+.bin p{
+	font-size: 15px;
+}
+
+.one{
+   background-image: url(../images/6.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+
+  
+}
+.color:hover{
+	background-color:rgb(0,0,0,0.5);
+	opacity: 1;
+}
+.two{
+  background-image: url(../images/7.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+}
+.three{
+   background-image: url(../images/8.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+}
+.four{
+  background-image: url(../images/29.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+}
+.five{
+  background-image: url(../images/k.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 800px;
+}
+.zero{
+	background-color: #0d0723;
+
+}
+
+.ico{
+	
+	padding-top: 150%;
+	text-align: center;
+	color: black;
+}
+.ic{
+    padding-top: 75%;
+	text-align: center;
+	color: black;
+
+}
+.icons{
+	text-align: center;
+	color: white;
+	font-size: 70px;
+}
+span{
+	background-color: blue;
+	border-radius: 300%;
+	width: 30px;
+	height: 30px;
+	border: 1.5px solid  pink;
+
+}
