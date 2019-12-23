@@ -1,6 +1,6 @@
 
 body{
-background-color: blue;
+background-color: #201e36;
 }
 
 .bgimage{
@@ -19,19 +19,26 @@ background-color: blue;
   background-position: center center;
 }
 .mage{
-  background-image: url(../images/5.jpeg);
+  background-image: url(../images/4.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 600px;
   background-position: center center;
 }
 .bin{
-	background-color: blue;
+	background-color: #2b0f4a;
 	min-height: 600px;
 	
 }
+.gif{
+	background-color: #211f37;
+}
 .bin p{
 	font-size: 15px;
+	color: white;
+}
+.bin h1{
+	color: white;
 }
 
 .one{
@@ -63,12 +70,14 @@ background-color: blue;
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 800px;
+  background-position: center center;
 }
 .five{
   background-image: url(../images/k.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 800px;
+  background-position: center center;
 }
 .zero{
 	background-color: #0d0723;
@@ -88,15 +97,23 @@ background-color: blue;
 
 }
 .icons{
+	;
 	text-align: center;
 	color: white;
 	font-size: 70px;
 }
 span{
-	background-color: blue;
+	background-color: #af36f3;
 	border-radius: 300%;
 	width: 30px;
 	height: 30px;
 	border: 1.5px solid  pink;
 
 }
+.container h2{
+	color: white;
+}
+.col-12{
+	background-color: 
+}
+
